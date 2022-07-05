@@ -13,3 +13,21 @@
         </main>
     </body>
 </html>
+
+
+body {
+    font-family: sans-serif;
+    
+}
+
+.home_robot{
+    background-color: lightblue;
+    border-radius: 30px;
+    padding: 20px;
+    width: 220px;
+}
+
+h2 {
+    border-bottom: 3px dashed navy;
+    width: 220px;
+}
