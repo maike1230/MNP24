@@ -17,25 +17,25 @@
 
 <table style="border:1px SteelBlue;border-collapse:collapse;">
         <tr style="border:1px solid green;background-color:Olive;">
-            <td>долар</td>
+            <td>курс</td>
             <td>рубль</td>
             <td>сом</tdЮ
         </tr>
         <tr style="border:1px SteelBlue">
            <td style="background-color:Olive;">Warface</td>
-           <td>Legion</td>
-            <td>Fire Master</td>
-            <td>jj</td>
+           <td>долора</td>
+            <td>60,53</td>
+            <td>79,50</td>
         </tr> 
         <tr style="border:1px SteelBlue>
             <td style="background-color:Olive;">CrossFire</td>
-            <td>Wind of War</td>
-            <td>Legion</td>
-            <td></td>
+            <td>евро</td>
+            <td>62,82</td>
+            <td>81,84</td>
         </tr>
         <tr style="border:1px SteelBlue">
-            <td>Demon Strike</td>
-            <td>Wind of War</td>
-            <td>03.12.2020</td>
+            <td>гривень</td>
+            <td>2.07</td>
+            <td>2,69</td>
         </tr>
     </table>
