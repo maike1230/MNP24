@@ -13,27 +13,5 @@
         </main>
     </body>
 </html>
-
-body {
-    font-family: sans-serif;
-    
-}
-
-.ho padding: 20px;
-
-   me_robot{
-   
-    background-color: lightblue;
-    
-    border-radius: 30px;
-    
-    width: 220px;
-    
-}
-
-h2 {
-    border-bottom: 3px dashed navy;
-    
-    width: 220px;
-    
-}
+    <h1>Последние новости дня в России</h1>
+<p>Самые свежие и актуальные последние новости России. Срочные сообщения из регионов, события, происшествия
