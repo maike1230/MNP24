@@ -21,25 +21,19 @@
             <td>рубль</td>
             <td>сом</tdЮ
         </tr>
-        <tr style="border:1px solid green">
+        <tr style="border:1px SteelBlue">
            <td style="background-color:Olive;">Warface</td>
            <td>Legion</td>
-           <td>Fire Master</td>
-           <td>11.11.2020</td>
-           <td>2 : 0</td>
+            <td>Fire Master</td>
         </tr> 
-        <tr style="border:1px solid green">
+        <tr style="border:1px SteelBlue>
             <td style="background-color:Olive;">CrossFire</td>
             <td>Wind of War</td>
             <td>Legion</td>
-            <td>22.11.2020</td>
-            <td>2 : 1</td>
         </tr>
-        <tr style="border:1px solid green">
-            <td style="background-color:Olive;">CS GO</td>
+        <tr style="border:1px SteelBlue">
             <td>Demon Strike</td>
             <td>Wind of War</td>
             <td>03.12.2020</td>
-            <td>1 : 0</td>
         </tr>
     </table>
