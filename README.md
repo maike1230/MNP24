@@ -25,6 +25,7 @@
            <td style="background-color:Olive;">Warface</td>
            <td>Legion</td>
             <td>Fire Master</td>
+            <td>jj</td>
         </tr> 
         <tr style="border:1px SteelBlue>
             <td style="background-color:Olive;">CrossFire</td>
