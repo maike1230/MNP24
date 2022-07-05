@@ -15,7 +15,7 @@
     <h1>Последние новости дня в России</h1>
 <p>Самые свежие и актуальные последние новости России. Срочные сообщения из регионов, события, происшествия</p>
 
-<table style="border:1px solid SteelBlue;border-collapse:collapse;">
+<table style="border:1px SteelBlue;border-collapse:collapse;">
         <tr style="border:1px solid green;background-color:Olive;">
             <td>долар</td>
             <td>рубль</td>
