@@ -30,6 +30,7 @@
             <td style="background-color:Olive;">CrossFire</td>
             <td>Wind of War</td>
             <td>Legion</td>
+            <td></td>
         </tr>
         <tr style="border:1px SteelBlue">
             <td>Demon Strike</td>
