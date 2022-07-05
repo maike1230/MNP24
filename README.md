@@ -22,8 +22,7 @@
             <td>сом</tdЮ
         </tr>
         <tr style="border:1px SteelBlue">
-           <td style="background-color:Olive;">Warface</td>
-           <td>долора</td>
+            <td style="background-color:Olive;">долар</td>
             <td>60,53</td>
             <td>79,50</td>
         </tr> 
