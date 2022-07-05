@@ -24,7 +24,6 @@
             <td>79,50</td>
         </tr> 
         <tr style="border:1px SteelBlue>
-            <td style="background-color:Olive;">CrossFire</td>
             <td>евро</td>
             <td>62,82</td>
             <td>81,84</td>
